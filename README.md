@@ -3,7 +3,7 @@ Using Python speech recognition, chatterbot API, and selenium for online text to
 ## READ THIS FIRST
 * Speech to text using google translate and computer microphone
 * Analyzing command using chatterBot API, which you can pre-program
-* Output using Selenium and NaturalReaders.com for a sexy voice output 😉!
+* Text to speech using Selenium and NaturalReaders.com for a sexy voice 😉!
 
 ## Modules you need:
 * speech_recognition
