@@ -78,7 +78,7 @@ def run_alexa(command_box, play_button, my_bot):
         playback(command_box, play_button, to_say)
     elif 'say hi to' in command:
         command = command.replace('say hi to', '')
-        playback(command_box, play_button, "Hello" + command + ". My name is Hamilton. It is a pleasure to meet you.")
+        playback(command_box, play_button, "Hello" + command + ". My name is Jarvis. It is a pleasure to meet you.")
     elif 'status' in command:         
         playback(command_box, play_button, "Don't worry sir, all virtual systems are fully operational")
     elif command != "":
